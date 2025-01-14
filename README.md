@@ -10,8 +10,6 @@ Welcome to my corner of the digital world! I'm a **Software Engineer** based in 
 - 🛠 Skilled in creating robust APIs with **Node.js**, **Bun.js**, **FastAPI**.
 - ☁️ Enthusiast of cloud technologies like **Firebase** and **Google Cloud**.
 
-When I'm not coding, you can find me exploring new tech, sipping coffee, or brainstorming creative solutions to complex problems. ☕
-
 ---
 
 ## 🔧 My Toolkit
