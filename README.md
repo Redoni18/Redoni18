@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 I'm Redon Emini 👨‍💻
 
-<!--
-**Redoni18/Redoni18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the digital world! I'm a **Software Engineer** based in Pristina, Kosovo, with a passion for building modern, scalable, and user-friendly applications. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🌱 Constantly learning and growing in the tech ecosystem.
+- 🎯 Focused on crafting seamless user experiences with **Vue.js**, **Nuxt**, **Nuxt UI**, **React.js**, **Next.js**.
+- 🛠 Skilled in creating robust APIs with **Node.js**, **Bun.js**, **FastAPI**.
+- ☁️ Enthusiast of cloud technologies like **Firebase** and **Google Cloud**.
+
+When I'm not coding, you can find me exploring new tech, sipping coffee, or brainstorming creative solutions to complex problems. ☕
+
+---
+
+## 🔧 My Toolkit
+### Frontend
+- **Vue.js** | **Nuxt.js** | **React.js** | **Next.js** | **Nuxt UI** | **TailwindCSS**
+  
+### Backend
+- **Node.js** | **Bun.js** | **Express.js** | **Hono.js**
+- **Python** | **FastAPI** | **Flask**
+- **SQLAlchemy** | **GraphQL** | **PostgreSQL**
+
+### Tools & Platforms
+- **Firebase** | **Google Cloud Platform** | **Docker**
+- **Terraform** | **AWS**
+
+---
+
+## 📬 Let's Connect!
+- 📧 [Email me](mailto:redonemini18@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/redon-emini/)
+- 📺 [Twitch] (https://www.twitch.tv/r3adonly/)
+
