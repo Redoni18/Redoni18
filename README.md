@@ -30,7 +30,7 @@ When I'm not coding, you can find me exploring new tech, sipping coffee, or brai
 ---
 
 ## 📬 Let's Connect!
-- 📧 [Email me](mailto:redonemini18@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/redon-emini/)
-- 📺 [Twitch] (https://www.twitch.tv/r3adonly/)
+- 📺 [Twitch](https://www.twitch.tv/r3adonlyi/)
+
 
